@@ -15,24 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="vect.cpp">
+    <ClCompile Include="cPoint.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="vectb.cpp">
+    <ClCompile Include="liste.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="vectok.cpp">
+    <ClCompile Include="liste_point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="vect.h">
+    <ClInclude Include="cPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="vectb.h">
+    <ClInclude Include="liste.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="vectok.h">
+    <ClInclude Include="liste_point.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
